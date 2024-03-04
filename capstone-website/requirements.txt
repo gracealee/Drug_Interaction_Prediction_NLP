@@ -1,0 +1,10 @@
+streamlit
+Pillow
+altair
+streamlit_lottie
+requests
+numpy
+pandas
+python-time
+rdkit-pypi
+streamlit_extras

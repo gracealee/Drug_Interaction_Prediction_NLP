@@ -1,0 +1,29 @@
+/* Center Title 
+span.css-10trblm.e1nzilvr0<h1{
+    text-align: center
+}*/
+
+
+/* Make input 'press enter to apply' invisible:
+https://discuss.streamlit.io/t/text-input-how-to-disable-press-enter-to-apply/14457/2  */
+.css-1q11bkk {
+    visibility: hidden;
+    }
+
+/* center metric values: 
+https://discuss.streamlit.io/t/is-there-a-way-to-center-all-the-elements-in-st-metric/35136*/
+[data-testid="metric-container"] {
+    width: fit-content;
+    margin: auto;
+}
+
+[data-testid="metric-container"] > div {
+    width: fit-content;
+    margin: auto;
+}
+
+[data-testid="metric-container"] label {
+    width: fit-content;
+    margin: auto;
+}
+
