@@ -1,0 +1,88 @@
+interaction_type	interaction
+0	Unknown
+1	The risk or severity of bleeding can be increased when #Drug1 is combined with #Drug2.
+2	The risk or severity of bleeding and hemorrhage can be increased when #Drug1 is combined with #Drug2.
+3	The therapeutic efficacy of #Drug1 can be decreased when used in combination with #Drug2.
+4	#Drug2 may increase the anticoagulant activities of #Drug1.
+5	#Drug1 may increase the anticoagulant activities of #Drug2.
+6	The risk or severity of adverse effects can be increased when #Drug1 is combined with #Drug2.
+7	The therapeutic efficacy of #Drug2 can be decreased when used in combination with #Drug1.
+8	The therapeutic efficacy of #Drug1 can be increased when used in combination with #Drug2.
+9	The risk or severity of gastrointestinal bleeding can be increased when #Drug1 is combined with #Drug2.
+10	#Drug2 may decrease the excretion rate of #Drug1 which could result in a higher serum level.
+11	#Drug1 may decrease the excretion rate of #Drug2 which could result in a higher serum level.
+12	The risk or severity of QTc prolongation can be increased when #Drug1 is combined with #Drug2.
+13	The risk or severity of myopathy, rhabdomyolysis, and myoglobinuria can be increased when #Drug1 is combined with #Drug2.
+14	The risk or severity of methemoglobinemia can be increased when #Drug1 is combined with #Drug2.
+15	#Drug2 may increase the excretion rate of #Drug1 which could result in a lower serum level and potentially a reduction in efficacy.
+16	The serum concentration of #Drug2 can be increased when it is combined with #Drug1.
+17	The risk or severity of bradycardia can be increased when #Drug1 is combined with #Drug2.
+18	#Drug1 may increase the neuromuscular blocking activities of #Drug2.
+19	The risk or severity of hypertension can be increased when #Drug1 is combined with #Drug2.
+20	#Drug1 may decrease the antihypertensive activities of #Drug2.
+21	#Drug2 may decrease the antihypertensive activities of #Drug1.
+22	#Drug1 may increase the excretion rate of #Drug2 which could result in a lower serum level and potentially a reduction in efficacy.
+23	The risk or severity of hypotension can be increased when #Drug1 is combined with #Drug2.
+24	The serum concentration of #Drug1 can be increased when it is combined with #Drug2.
+25	The serum concentration of #Drug2 can be decreased when it is combined with #Drug1.
+26	The serum concentration of #Drug1 can be decreased when it is combined with #Drug2.
+27	The excretion of #Drug1 can be decreased when combined with #Drug2.
+28	The metabolism of #Drug1 can be decreased when combined with #Drug2.
+29	The metabolism of #Drug2 can be decreased when combined with #Drug1.
+30	#Drug2 may increase the immunosuppressive activities of #Drug1.
+31	The therapeutic efficacy of #Drug2 can be increased when used in combination with #Drug1.
+32	#Drug1 may increase the neurotoxic activities of #Drug2.
+33	The risk or severity of nephrotoxicity can be increased when #Drug1 is combined with #Drug2.
+34	The excretion of #Drug2 can be decreased when combined with #Drug1.
+35	The metabolism of #Drug1 can be increased when combined with #Drug2.
+36	The risk or severity of hyperkalemia can be increased when #Drug1 is combined with #Drug2.
+37	The risk or severity of nephrotoxicity and hypocalcemia can be increased when #Drug1 is combined with #Drug2.
+38	The risk or severity of neuromuscular blockade can be increased when #Drug1 is combined with #Drug2.
+39	#Drug2 may increase the hyperkalemic activities of #Drug1.
+40	The metabolism of #Drug2 can be increased when combined with #Drug1.
+41	#Drug2 can cause a decrease in the absorption of #Drug1 resulting in a reduced serum concentration and potentially a decrease in efficacy.
+42	#Drug1 may increase the immunosuppressive activities of #Drug2.
+43	The risk or severity of neutropenia and thrombocytopenia can be increased when #Drug1 is combined with #Drug2.
+44	#Drug1 may increase the hypoglycemic activities of #Drug2.
+45	#Drug2 may increase the hypoglycemic activities of #Drug1.
+46	The risk or severity of hypokalemia can be increased when #Drug1 is combined with #Drug2.
+47	#Drug1 can cause a decrease in the absorption of #Drug2 resulting in a reduced serum concentration and potentially a decrease in efficacy.
+48	#Drug2 may increase the central nervous system depressant (CNS depressant) activities of #Drug1.
+49	#Drug1 may increase the central nervous system depressant (CNS depressant) activities of #Drug2.
+50	The risk or severity of serotonin syndrome can be increased when #Drug1 is combined with #Drug2.
+51	The risk or severity of CNS depression can be increased when #Drug1 is combined with #Drug2.
+52	The risk or severity of sedation can be increased when #Drug1 is combined with #Drug2.
+53	The risk or severity of hypotension, sedation, death, somnolence, and respiratory depression can be increased when #Drug1 is combined with #Drug2.
+54	#Drug1 may increase the sedative activities of #Drug2.
+55	The risk or severity of gastrointestinal irritation can be increased when #Drug1 is combined with #Drug2.
+56	The risk or severity of renal failure, hyperkalemia, and hypertension can be increased when #Drug1 is combined with #Drug2.
+57	#Drug1 may increase the neuroexcitatory activities of #Drug2.
+58	The risk or severity of hypoglycemia can be increased when #Drug1 is combined with #Drug2.
+59	#Drug2 may increase the hypotensive activities of #Drug1.
+60	#Drug1 may increase the hypotensive activities of #Drug2.
+61	The risk or severity of angioedema can be increased when #Drug1 is combined with #Drug2.
+62	#Drug1 may increase the hyperkalemic activities of #Drug2.
+63	The risk or severity of myopathy and weakness can be increased when #Drug1 is combined with #Drug2.
+64	The risk or severity of hyperglycemia can be increased when #Drug1 is combined with #Drug2.
+65	The risk or severity of edema formation can be increased when #Drug1 is combined with #Drug2.
+66	The risk or severity of electrolyte imbalance can be increased when #Drug1 is combined with #Drug2.
+67	The risk or severity of tendinopathy can be increased when #Drug1 is combined with #Drug2.
+68	The risk or severity of Tachycardia can be increased when #Drug1 is combined with #Drug2.
+69	#Drug1 may decrease the sedative and stimulatory activities of #Drug2.
+70	#Drug2 may increase the sedative activities of #Drug1.
+71	#Drug2 may increase the bradycardic activities of #Drug1.
+72	#Drug1 may increase the bradycardic activities of #Drug2.
+73	#Drug1 may increase the arrhythmogenic activities of #Drug2.
+74	#Drug1 may increase the orthostatic hypotensive activities of #Drug2.
+75	#Drug2 may decrease the sedative and stimulatory activities of #Drug1.
+76	#Drug2 may increase the arrhythmogenic activities of #Drug1.
+77	The risk or severity of Cardiac Arrhythmia can be increased when #Drug1 is combined with #Drug2.
+78	#Drug2 may increase the neuromuscular blocking activities of #Drug1.
+79	#Drug2 may increase the neurotoxic activities of #Drug1.
+80	#Drug2 may increase the hypertensive and vasoconstricting activities of #Drug1.
+81	#Drug1 may increase the hypertensive and vasoconstricting activities of #Drug2.
+82	#Drug2 may increase the neuroexcitatory activities of #Drug1.
+83	#Drug2 may increase the orthostatic hypotensive activities of #Drug1.
+84	#Drug1 may increase the orthostatic hypotensive, hypotensive, and antihypertensive activities of #Drug2.
+85	The risk or severity of hypotension and CNS depression can be increased when #Drug1 is combined with #Drug2.
+86	#Drug2 may increase the orthostatic hypotensive, hypotensive, and antihypertensive activities of #Drug1.
